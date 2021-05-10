@@ -1,0 +1,25 @@
+.carre_1{
+  width: 100px;
+  height: 100px;
+  background-color: #da9795;
+  border: 3px solid #355d8b;
+
+}
+
+.carre_2{
+  width: 100px;
+  height: 100px;
+  background-color: #c5be98;
+  border: 3px solid #355d8b;
+  position: relative;
+  left: 103px ;
+}
+
+.carre_3{
+  width: 100px;
+  height: 100px;
+  background-color: #548fd6;
+  border: 3px solid #355d8b;
+  position: relative;
+  left: 206px ;
+}

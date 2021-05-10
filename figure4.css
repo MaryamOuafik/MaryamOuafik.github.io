@@ -1,0 +1,23 @@
+
+
+.carre_1{
+  width: 100px;
+  height: 100px;
+  border: 3px solid #355d8b;
+    background-color: #da9795;
+    display: inline-block;
+}
+.carre_2{
+  width: 100px;
+  height: 100px;
+  border: 3px solid #355d8b;
+  background-color: #548fd6;
+  display: inline-block;
+}
+
+.carre_3{
+  width: 100px;
+  height: 100px;
+  background-color: #c5be98;
+  border: 3px solid #355d8b;
+}
